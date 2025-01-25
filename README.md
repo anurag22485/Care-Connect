@@ -19,8 +19,6 @@
 - **State Management**: Redux (optional)
 
 
-=
-
 # Deployment Links
 [Care Connect Patient Panel](https://care-connect-ten.vercel.app/)
 
