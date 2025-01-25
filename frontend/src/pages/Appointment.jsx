@@ -95,7 +95,7 @@ const Appointment = () => {
         const date = docSlots[slotIndex][0].datetime
 
         let day = date.getDate()
-        let month = date.getMonth() + 1
+        let month = date.getMonth() 
         let year = date.getFullYear()
 
         const slotDate = day + "_" + month + "_" + year
