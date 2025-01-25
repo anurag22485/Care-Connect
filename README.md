@@ -19,6 +19,12 @@
 - **State Management**: Redux (optional)
 
 
-# Topics
-Hospital Management, MERN Stack, MongoDB, Express.js, React, Node.js, Healthcare App, Patient Records, Appointments.
+=
+
+# Deployment Links
+[Care Connect Patient Panel](https://care-connect-ten.vercel.app/)
+
+[Care Connect Admin/Doctor Panel](https://care-connect-admin-git-main-anurag-singhs-projects-18b7525a.vercel.app/all-appointments)
+
+
 
